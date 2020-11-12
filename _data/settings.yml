@@ -1,12 +1,12 @@
 basic_settings:
-  site_title: Patricia Marie Barrier
-  favicon_image: /assets/img/favicon.png
+  site_title: PMB
+  favicon_image: /assets/img/slack.png
 
 header_settings:
   logo_image: /assets/img/bigdataapplications.jpg
   mobile_logo_image: /assets/img/bigdataapplications.jpg
   # Choose a color for your header [blue, dark, light].
-  theme: dark
+  theme: black
   # If the page has a featured image, it turns transparent if allow_transparent is set to "yes".
   allow_transparent: "yes"
 
@@ -63,7 +63,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Statistician with emerging knowledge in the lastest, best practices of Data Science.
+  footer_tagline: Statistician with emerging knowledge in the lastest and best practices of Data Science.
 contact_settings:
   form_action: 'https://formspree.io/hello@jekyllthemes.io'
   confirmation_url: '/thanks'
@@ -71,8 +71,17 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
+  facebook_url: ''
+  twitter_url: 'https://twitter.com/jekyllthemesio'
+  instagram_url: 'https://twitter.com/jekyllthemesio'
   youtube_url: 'https://studio.youtube.com/channel/UC9_KhUkV3QOlysGEEULRO0Q/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D'
+  vimeo_url: ''
+  pinterest_url: ''
+  tumblr_url: ''
+  dribbble_url: ''
+  behance_url: ''
   github_url: 'https://patriciamariebarrier.github.io/'
+  reddit_url: ''
   linkedin_url: 'https://www.linkedin.com/in/patriciamariebarrier/'
 
 authors:
