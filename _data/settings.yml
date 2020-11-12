@@ -17,7 +17,7 @@ home_settings:
   # Choose a layout for your home page:
     # landing – an example landing page made using the Argon design system
     # blog – use your blog posts as the home page
-  theme: blog
+  theme: landing
 
 blog_settings:
   # Choose a format for your blog listings:
