@@ -1,12 +1,12 @@
 basic_settings:
-  site_title: PMB
+  site_title: Patricia Marie Barrier
   favicon_image: /assets/img/favicon.png
 
 header_settings:
   logo_image: /assets/img/bigdataapplications.jpg
   mobile_logo_image: /assets/img/bigdataapplications.jpg
   # Choose a color for your header [blue, dark, light].
-  theme: dark
+  theme: black
   # If the page has a featured image, it turns transparent if allow_transparent is set to "yes".
   allow_transparent: "yes"
 
@@ -63,8 +63,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Cool things happen when you merge a statistics brain with a data science brain with *anything else*!
-
+  footer_tagline: Statistician with emerging knowledge in the lastest and best practices of Data Science.
 contact_settings:
   form_action: 'https://formspree.io/hello@jekyllthemes.io'
   confirmation_url: '/thanks'
