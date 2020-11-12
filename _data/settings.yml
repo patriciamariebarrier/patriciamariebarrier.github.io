@@ -43,17 +43,17 @@ menu_settings:
     - title: 'Professional'
       submenu_items:
       - title: Portfolio
-        url: /blog
+        url: /blog-narrow-example
         icon: ni-books text-primary
       - title: Professional
-        url: /blog-narrow-example
-        icon: ni-align-center text-success
-      - title: Wide Grid Example
-        url: /blog-grid-example
-        icon: ni-image text-info
-      - title: List Example
         url: /blog-list-example
-        icon: ni-bullet-list-67 text-default    
+        icon: ni-align-center text-success
+      #- title: Wide Grid Example
+       # url: /blog-grid-example
+        #icon: ni-image text-info
+      #- title: List Example
+       # url: /blog-list-example
+        #icon: ni-bullet-list-67 text-default    
     - title: 'About Me'
       url: '/about'
     - title: 'Contact'
@@ -82,5 +82,5 @@ authors:
 
 advanced_settings:
   analytics_code: 
-  header_js: Patricia Marie Barrier
+  header_js: 
   footer_js: 
