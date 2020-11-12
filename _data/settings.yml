@@ -66,7 +66,7 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-    youtube_url: 'https://www.youtube.com/user/PatriciaMarieB/videos
+  youtube_url: 'https://www.youtube.com/user/PatriciaMarieB/videos'
   youtube_url: 'https://www.youtube.com/channel/UC9_KhUkV3QOlysGEEULRO0Q/'
   linkedin_url: 'https://www.linkedin.com/in/patriciamariebarrier/'
   github_url: 'https://patriciamariebarrier.github.io/'
