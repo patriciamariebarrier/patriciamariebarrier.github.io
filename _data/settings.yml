@@ -5,7 +5,8 @@ basic_settings:
 header_settings:
   logo_image: /assets/img/bigdataapplications.jpg
   mobile_logo_image: /assets/img/bigdataapplications.jpg
-  header_tagline: Statistician with emerging knowledge in the lastest, best practices of Data Science.
+  
+  
   # Choose a color for your header [blue, dark, light].
   theme: dark
   # If the page has a featured image, it turns transparent if allow_transparent is set to "yes".
@@ -58,7 +59,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: 
+  footer_tagline: Statistician with emerging knowledge in the lastest, best practices of Data Science.
 contact_settings:
   form_action: 'https://formspree.io/hello@jekyllthemes.io'
   confirmation_url: '/thanks'
@@ -80,5 +81,5 @@ authors:
 
 advanced_settings:
   analytics_code: 
-  header_js: 
+  header_js: Patricia Marie Barrier
   footer_js: 
