@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Argon Jekyll Theme
+  site_title: Patricia Marie Barrier
   favicon_image: /assets/img/favicon.png
 
 header_settings:
@@ -14,7 +14,7 @@ home_settings:
   # Choose a layout for your home page:
     # landing – an example landing page made using the Argon design system
     # blog – use your blog posts as the home page
-  theme: landing
+  theme: blog
 
 blog_settings:
   # Choose a format for your blog listings:
@@ -31,7 +31,7 @@ blog_settings:
   # 3. Add a color of the icon - text-primary, text-success, text-info, text-danger, text-warning and text-default all work! 
 menu_settings:
   menu_items:
-    - title: 'Home'
+    - title: 'About Me'
       submenu_items:
       - title: Landing Page
         url: /
@@ -45,7 +45,7 @@ menu_settings:
       url: /pricing        
     - title: 'Blog'
       submenu_items:
-      - title: Blog
+      - title: Projects
         url: /blog
         icon: ni-books text-primary
       - title: Narrow Grid Example
@@ -57,13 +57,13 @@ menu_settings:
       - title: List Example
         url: /blog-list-example
         icon: ni-bullet-list-67 text-default    
-    - title: 'About'
+    - title: 'Professional Information'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Argon & Jekyll, together at last.
+  footer_tagline: I bring together the skills of Data Science, Statistics & Applied Mathematics.
 
 contact_settings:
   form_action: 'https://formspree.io/hello@jekyllthemes.io'
