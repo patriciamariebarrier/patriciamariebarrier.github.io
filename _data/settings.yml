@@ -6,7 +6,7 @@ header_settings:
   logo_image: /assets/img/bigdataapplications.jpg
   mobile_logo_image: /assets/img/bigdataapplications.jpg
   # Choose a color for your header [blue, dark, light].
-  theme: blue
+  theme: dark
   # If the page has a featured image, it turns transparent if allow_transparent is set to "yes".
   allow_transparent: "yes"
 
