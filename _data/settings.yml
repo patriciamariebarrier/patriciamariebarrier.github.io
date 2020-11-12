@@ -5,7 +5,8 @@ basic_settings:
 header_settings:
   logo_image: /assests/img/logobigdata.png
   mobile_logo_image: /assests/img/logobigdata.png
-  
+  tagline: Patricia Marie 
+  header_tagline: Barrier
   
   # Choose a color for your header [blue, dark, light].
   theme: dark
