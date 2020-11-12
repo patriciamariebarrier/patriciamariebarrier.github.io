@@ -32,24 +32,18 @@ blog_settings:
   # 3. Add a color of the icon - text-primary, text-success, text-info, text-danger, text-warning and text-default all work! 
 menu_settings:
   menu_items:
-    - title: 'Portfolio'
+    #- title: 'Professional'
+     #        icon: ni-spaceship text-success    
+     #- title: 'Features'
+      #url: '/features'     
+    #- title: Pricing
+     # url: /pricing        
+    - title: 'Professional'
       submenu_items:
-      - title: Data Science Projects
+      - title: Resume and CV
         url: /blog
         icon: ni-books text-primary
       - title: Professional Activities
-        url: /
-        icon: ni-spaceship text-success    
-     #- title: 'Features'
-      #url: '/features'     
-    - title: Pricing
-      url: /pricing        
-    - title: 'Resume and CV'
-      submenu_items:
-      - title: Blog
-        url: /blog
-        icon: ni-books text-primary
-      - title: Narrow Grid Example
         url: /blog-narrow-example
         icon: ni-align-center text-success
       - title: Wide Grid Example
