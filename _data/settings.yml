@@ -3,8 +3,8 @@ basic_settings:
   favicon_image: /assets/img/slack.png
 
 header_settings:
-  logo_image:  assets/img/heading_web.PNG
-  mobile_logo_image:  assets/img/heading_web.PNG
+  logo_image:  assets/img/house-512.png
+  mobile_logo_image:  assets/img/house-512.png
     
   # Choose a color for your header [blue, dark, light].
   theme: dark
