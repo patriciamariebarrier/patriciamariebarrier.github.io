@@ -66,11 +66,8 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  
-   linkedin_url: 'https://www.linkedin.com/in/patriciamariebarrier/'
+  linkedin_url: 'https://www.linkedin.com/in/patriciamariebarrier/'
   github_url: 'https://patriciamariebarrier.github.io/'
-
-  
 
 authors:
   marie:
