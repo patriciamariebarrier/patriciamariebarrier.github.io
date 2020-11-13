@@ -1,5 +1,5 @@
 ---
-title: About Me
+#title: 
 #subtitle: 
 featured_image: /assets/img/sections/heading_web.PNG
 ---
