@@ -43,7 +43,7 @@ menu_settings:
     - title: 'Professional'
       submenu_items:
       - title: Portfolio
-        url: /blog-narrow-example
+        url: /blog
         icon: ni-books text-primary
       - title: Professional
         url: /blog-list-example
