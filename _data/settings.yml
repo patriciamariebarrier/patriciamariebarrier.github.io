@@ -40,10 +40,10 @@ menu_settings:
      # url: /pricing        
     - title: 'Professional'
       submenu_items:
-      - title: Portfolio
+      - title: Course Projects - Portfolio
         url: /blog
         icon: ni-books text-primary
-      - title: Professional
+      - title: Resume and CV
         url: /blog-list-example
         icon: ni-align-center text-success
       #- title: Wide Grid Example
