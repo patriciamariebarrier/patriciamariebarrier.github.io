@@ -1,7 +1,7 @@
 ---
-title: Overview
+title: Data Science Coursework
 date: 2018-2020
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
+description: Recent graduate coursework in Data Science and Business Analytics at UNCC:
 featured_image: /assets/img/pages/heading_web.PNG
 author: Marie
 ---
