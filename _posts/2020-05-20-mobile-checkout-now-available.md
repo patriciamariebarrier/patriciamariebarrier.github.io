@@ -6,4 +6,11 @@ featured_image: /assets/img/pages/heading_web.PNG
 author: Marie
 ---
 
-{% include demo-post.md %}
+* Simple bulleted lists
+* Like this one
+* Are cool
+
+
+
+
+
