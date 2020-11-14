@@ -16,10 +16,34 @@
     <div class="glide__track" data-glide-el="track">
         <ul class="glide__slides">
         <li class="glide__slide">
-            <img src="sofia-kuniakina.jpg">
+            <img src="Final Project Presentation 5122 Ins Comp/Slide1.PNG">
         </li>
         <li class="glide__slide">
-            <img src="victor-garcia.jpg">
+            <img src="Final Project Presentation 5122 Ins Comp/Slide2.PNG">
+        </li>
+           <li class="glide__slide">
+            <img src="Final Project Presentation 5122 Ins Comp/Slide3.PNG">
+        </li>
+           <li class="glide__slide">
+            <img src="Final Project Presentation 5122 Ins Comp/Slide4.PNG">
+        </li>
+           <li class="glide__slide">
+            <img src="Final Project Presentation 5122 Ins Comp/Slide5.PNG">
+        </li>
+           <li class="glide__slide">
+            <img src="Final Project Presentation 5122 Ins Comp/Slide6.PNG">
+        </li>
+           <li class="glide__slide">
+            <img src="Final Project Presentation 5122 Ins Comp/Slide7.PNG">
+        </li>
+           <li class="glide__slide">
+            <img src="Final Project Presentation 5122 Ins Comp/Slide8.PNG">
+        </li>
+           <li class="glide__slide">
+            <img src="Final Project Presentation 5122 Ins Comp/Slide9.PNG">
+        </li>
+           <li class="glide__slide">
+            <img src="Final Project Presentation 5122 Ins Comp/Slide10.PNG">
         </li>
         </ul>
     </div>
