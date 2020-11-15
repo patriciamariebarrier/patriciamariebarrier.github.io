@@ -6,24 +6,24 @@ While PowerBI is usable, I prefer Tableau.
         <div class="glide__track" data-glide-el="track">
           <ul class="glide__slides">
             <li class="glide__slide">
-              <img src="../assets/img/theme/slide1.png">
+              <img src="../assets/img/theme/slide1.PNG">
             </li>
             <li class="glide__slide">
-              <img src="../assets/img/theme/slide2.png">
+              <img src="../assets/img/theme/slide2.PNG">
             </li>
             <li class="glide__slide">
-              <img src="../assets/img/theme/slide3.png">
+              <img src="../assets/img/theme/slide3.PNG">
             </li>
             <li class="glide__slide">
-              <img src="../assets/img/theme/slide4.png">
+              <img src="../assets/img/theme/slide4.PNG">
             </li>
             <li class="glide__slide">
-              <img src="../assets/img/theme/slide5.png">
+              <img src="../assets/img/theme/slide5.PNG">
             </li>
              <li class="glide__slide">
-              <img src="../assets/img/theme/slide6.png">
+              <img src="../assets/img/theme/slide6.PNG">
             </li><li class="glide__slide">
-              <img src="../assets/img/theme/slide7.png">
+              <img src="../assets/img/theme/slide7.PNG">
             </li>
           </ul>
         </div>
