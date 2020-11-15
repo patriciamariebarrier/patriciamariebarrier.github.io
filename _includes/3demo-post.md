@@ -1,4 +1,6 @@
-This project is from my DSBA 6100 graduate class (Big Data Analytics for Competative Advantage) at UNCC. I worked with a group of 5. This project was very heavy in data preparation. We used primarily SAS for data cleaning and pre-processing. We worked with files that were formated very differently and were able to summarize and merge these files by creating new variables. We also created new binary variables to help us with logistic regression. Our entire team was hardworking and engaged at every step which led to some strong discussions about the balance of time with quality and best practice for cleaning processes at different steps.
+This project is from my DSBA 6100 graduate class (Big Data Analytics for Competative Advantage) at UNCC. I worked with a group of 5. This project was very heavy in data preparation. 
+We used primarily SAS for data cleaning and pre-processing, working with large files that were formated very differently from each other. We were able to merge these files into something more useful by creating new summary variables for transactional files. We also created new binary variables for logistic regression. 
+We used Tableau for our data visualizations.
 
 <section style="position:relative">
             <div class="blogGlide fullWidth">
