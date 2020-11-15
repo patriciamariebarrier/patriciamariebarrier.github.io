@@ -43,7 +43,7 @@ menu_settings:
       - title: Course Projects - Portfolio
         url: /blog
         icon: ni-books text-primary
-      - title: Resume and CV
+      - title: Project Portfolio Option 2
         url: /blog-list-example
         icon: ni-align-center text-success
       #- title: Wide Grid Example
