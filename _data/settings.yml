@@ -40,7 +40,7 @@ menu_settings:
      # url: /pricing        
     - title: 'Professional'
       submenu_items:
-      - title: Course Projects - Portfolio
+      - title: My Portfolio
         url: /blog-list-example
         icon: ni-books text-primary
       - title: CurrVitae
