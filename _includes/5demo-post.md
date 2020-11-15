@@ -11,7 +11,8 @@ Topics Include:
 * Association Rule Mining
 
 Data Exploration and Multiple Linear Regression (MLR) using R:
-     <section style="position:relative">
+
+   <section style="position:relative">
       <div class="blogGlide fullWidth gliderMargin">
         <div class="glide__track" data-glide-el="track">
           <ul class="glide__slides">
