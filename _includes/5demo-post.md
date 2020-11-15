@@ -10,6 +10,7 @@ Topics Include:
 * Clustering
 * Association Rule Mining
 
+
    <section style="position:relative">
       <div class="blogGlide fullWidth gliderMargin">
         <div class="glide__track" data-glide-el="track">
@@ -41,8 +42,6 @@ Topics Include:
             <li class="glide__slide">
               <img src="../assets/img/theme/6201assignments2019_Page_09.png">
             </li>
-            <li class="glide__slide">
-              <img src="../assets/img/theme/6201assignments2019_Page_10.png">
             <li class="glide__slide">
               <img src="../assets/img/theme/6201assignments2019_Page_11.png">
             </li>
@@ -86,12 +85,6 @@ Topics Include:
               <img src="../assets/img/theme/6201assignments2019_Page_24.png">
             </li>
             <li class="glide__slide">
-              <img src="../assets/img/theme/6201assignments2019_Page_25.png">
-            </li>
-            <li class="glide__slide">
-              <img src="../assets/img/theme/6201assignments2019_Page_31.png">
-            </li>
-            <li class="glide__slide">
               <img src="../assets/img/theme/6201assignments2019_Page_32.png">
             </li>
              <li class="glide__slide">
@@ -121,9 +114,6 @@ Topics Include:
             <li class="glide__slide">
               <img src="../assets/img/theme/6201assignments2019_Page_41.png">
             </li>
-             <li class="glide__slide">
-              <img src="../assets/img/theme/6201assignments2019_Page_42.png">
-            </li>
             <li class="glide__slide">
               <img src="../assets/img/theme/6201assignments2019_Page_43.png">
             </li>
@@ -139,11 +129,11 @@ Topics Include:
             <li class="glide__slide">
               <img src="../assets/img/theme/6201assignments2019_Page_48.png">
             </li>
-          </ul>
+         </ul>
         </div>
         <div class="glide__arrows d-flex justify-content-center mt-4 position-static" data-glide-el="controls">
           <button class="glide__arrow text-default position-static" data-glide-dir="<"><i class="ni ni-bold-left"></i></button>
           <button class="glide__arrow text-default position-static" data-glide-dir=">"><i class="ni ni-bold-right"></i></button>
         </div>
       </div>
-   </section>
+    </section>
