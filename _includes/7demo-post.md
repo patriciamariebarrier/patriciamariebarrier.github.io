@@ -1,4 +1,4 @@
-  Data Warehousing:
+ <h3 class="display-3"> Data Warehousing:</h3>
 <section style="position:relative">
       <div class="blogGlide fullWidth gliderMargin">
         <div class="glide__track" data-glide-el="track">
