@@ -14,12 +14,11 @@ You can create lists:
             </li>
           
             <li class="glide__slide">
-            [^1]:
               <img src="../assets/img/theme/sacha-styles.jpg">
             </li>
             </section>
 
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
+which link to explanations[^2] at the bottom of the page[^3].
 
 [^1]: Beautiful modern, minimal theme design.
 [^2]: Powerful features to show off your work.
