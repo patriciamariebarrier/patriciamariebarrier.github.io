@@ -65,7 +65,6 @@ We used Tableau for our data visualizations.
           <button class="glide__arrow text-default position-static" data-glide-dir=">"><i class="ni ni-bold-right"></i></button>
     </div>
 </div>
- <img src="../assets/img/theme/Report Final Project5122_Page_01.png">
               <img src="../assets/img/theme/Group Project Workers Compensation Data Analysis - Final_Page_01.png">         
               <img src="../assets/img/theme/Group Project Workers Compensation Data Analysis - Final_Page_02.png">
               <img src="../assets/img/theme/Group Project Workers Compensation Data Analysis - Final_Page_03.png">
