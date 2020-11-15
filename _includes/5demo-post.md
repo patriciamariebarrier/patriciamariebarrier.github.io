@@ -1,17 +1,16 @@
 Here is a sample of my work from assignments in DSBA 6201, Business Intelligence and Analytics, at UNCC.
 Most assignments were required to be completed by-hand initially (for conceptual understanding) then solved using R coding.
 
-   <section style="position:relative">
-      <div class="blogGlide fullWidth gliderMargin">
-<li> <a href="#testing">Regression</a>
+   
+* <a href="#testing">Regression</a>
 * Data Warehouse Design
 * ROC Curve & Confusion Matrix
 * Decision Trees
 * Clustering
 * Association Rule Mining
 
-<h3 class="display-3">Data Exploration and Multiple Linear Regression (MLR) using R:</h3>
-
+<section style="position:relative">
+      <div class="blogGlide fullWidth gliderMargin">
         <div class="glide__track" data-glide-el="track">
           <ul class="glide__slides">
             <li class="glide__slide">
