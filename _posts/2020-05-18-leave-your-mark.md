@@ -1,0 +1,9 @@
+---
+title: SAS, logistic regression, variable recoding
+date: 2019-08-04
+description: DSBA 6100 Big Data Analytics for Competitive Advantage 
+featured_image: /assets/img/Final Project Workers Comp Presentation/Slide12.PNG
+author: Marie
+---
+
+{% include 3demo-post.md %}
