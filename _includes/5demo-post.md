@@ -1,5 +1,5 @@
-Here is a sample of some work from DSBA 6201, Business Intelligence and Analytics, at UNCC.
-Most assignments were required to be completed by-hand initially (for conceptual understanding) then solved using R coding. 
+Below are sample images of work from DSBA 6201, Business Intelligence and Analytics, at UNCC.
+Most assignments were completed by-hand initially (for conceptual understanding) then solved using R coding. 
 
 Topics Include:
 
@@ -9,6 +9,7 @@ Topics Include:
 * Decision Tree and Information Gain
 * Clustering
 * Association Rule Mining
+
 
 Right click and select 'View Image' in order to see an image larger.
 
