@@ -1,6 +1,6 @@
 This project is from my first DSBA graduate class, DSBA 5122: Visual Analytics, at UNCC. I worked with a group of 3. All of us created Tableau graphs. I was key in helping our team narrow down graph choices in order to build a good storyline. I was also responsible for creating the powerpoint and writing our summary report. Team member Kaci Allen was key in creating (and explaining to us how to create) my favorite visualization (featured above) for this project.
 
-<h3 class="display-4">Right click and select ‘View Image’ to see any slider image larger.</h4>
+<h4 class="display-3">Right click and select ‘View Image’ to see any slider image larger.</h4>
  <section style="position:relative">
             <div class="blogGlide fullWidth">
     <div class="glide__track" data-glide-el="track">
