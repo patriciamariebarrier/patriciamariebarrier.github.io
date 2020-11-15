@@ -1,7 +1,7 @@
 
 You can create lists:
 
-* Simple bulleted lists
+* Simple bulleted lists, And footnotes[^1]
 * Like this one
 * Are cool
 
@@ -12,7 +12,9 @@ You can create lists:
             <li class="glide__slide">
               <img src="../assets/img/theme/sofia-kuniakina.jpg">
             </li>
+          
             <li class="glide__slide">
+            [^1]:
               <img src="../assets/img/theme/sacha-styles.jpg">
             </li>
             </section>
