@@ -1,4 +1,4 @@
-This project is from my first DSBA graduate class at UNCC. I worked with a group of 3. All of us created Tableau graphs. I was key in helping our team narrow down graph choices. I was also responsible for creating the powerpoint and writing the report summary. 
+This project is from my first DSBA graduate class (Visual Analytics) at UNCC. I worked with a group of 3. All of us created Tableau graphs. I was key in helping our team narrow down graph choices. I was also responsible for creating the powerpoint and writing the report summary. 
  <section style="position:relative">
             <div class="blogGlide fullWidth">
     <div class="glide__track" data-glide-el="track">
