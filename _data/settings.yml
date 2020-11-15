@@ -41,10 +41,10 @@ menu_settings:
     - title: 'Professional'
       submenu_items:
       - title: Course Projects - Portfolio
-        url: /blog
-        icon: ni-books text-primary
-      - title: Project Portfolio Option 2
         url: /blog-list-example
+        icon: ni-books text-primary
+      - title: CurrVitae
+        url: /blog-CV
         icon: ni-align-center text-success
       #- title: Wide Grid Example
        # url: /blog-grid-example
