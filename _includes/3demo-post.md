@@ -2,8 +2,7 @@ This project is from my DSBA 6100 graduate class (Big Data Analytics for Competa
 We used primarily SAS for data cleaning and pre-processing, working with large files that were formated very differently from each other. We were able to merge these files into something more useful by creating new summary variables for transactional files. We also created new binary variables for logistic regression. 
 We used Tableau for our data visualizations.
 
-Right click and select ‘View Image’ to see any slider image larger.
-
+<h3 class="display-3">Right click and select ‘View Image’ to see any slider image larger.</h3>
 <section style="position:relative">
             <div class="blogGlide fullWidth">
     <div class="glide__track" data-glide-el="track">
