@@ -1,6 +1,6 @@
-These images show some samples from my query work (we used SQL, MySQL, SQLite) in DSBA 6160 (Big Data Design, Storage, and Provenance) at UNCC. 
+These images show some samples from DSBA 6160 (Big Data Design, Storage, and Provenance) at UNCC. For database queries we used primarily SQL, MySQL, and SQLite.
 
-While there was no final project for this course, I did have the opportunity to begin looking at a very big MIT medical data set. This was exciting and prompted me to begin some independent learning in cloud computing. With the support of my professor, Dr. Yaorong Ge, I was able to go beyond the scope of the course's requirements, designing an Azure cloud computing system to handle the data and queries.
+While there was no final project for this course, I did have the opportunity to begin looking at a very big MIT medical data set. This was exciting and prompted me to begin some independent learning in cloud computing. With the support of my professor, Dr. Yaorong Ge, I was able to go beyond the scope of the course's requirements, designing an Azure cloud computing system capable of handling the full data set and queries.
 
    <section style="position:relative">
       <div class="blogGlide fullWidth gliderMargin">
