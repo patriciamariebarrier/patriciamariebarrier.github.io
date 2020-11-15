@@ -2,7 +2,7 @@ Here is a sample of my work from assignments in DSBA 6201, Business Intelligence
 Most assignments were required to be completed by-hand initially (for conceptual understanding) then solved using R coding.
 
    
-* <a href="#testing">Regression</a>
+* Data Exploration and Multiple Linear Regression (MLR) using R:
 * Data Warehouse Design
 * ROC Curve & Confusion Matrix
 * Decision Trees
