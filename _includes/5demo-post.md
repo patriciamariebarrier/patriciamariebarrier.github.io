@@ -5,7 +5,7 @@ Topics Include:
 
 * Regression
 * Data Warehouse Design
-* ROC Curve & Confusion Matrix
+* <a p>ROC Curve & Confusion Matrix</p>
 * Decision Trees
 * Clustering
 * Association Rule Mining
@@ -32,7 +32,7 @@ Topics Include:
               <img src="../assets/img/theme/6201assignments2019_Page_05.png">
             </li>
              <li class="glide__slide">
-              <img src="../assets/img/theme/6201assignments2019_Page_06.png">
+              <a img src="../assets/img/theme/6201assignments2019_Page_06.png">
             </li>
             <li class="glide__slide">
               <img src="../assets/img/theme/6201assignments2019_Page_07.png">
