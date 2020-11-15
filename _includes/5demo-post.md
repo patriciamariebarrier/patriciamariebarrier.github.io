@@ -1,4 +1,4 @@
-Below are sample images of work from DSBA 6201, Business Intelligence and Analytics, at UNCC.
+Below are sample images of work from DSBA 6201: Business Intelligence and Analytics, at UNCC.
 Most assignments were completed by-hand initially (for conceptual understanding) then solved using R coding. 
 
 Topics Include:
@@ -11,7 +11,7 @@ Topics Include:
 * Association Rule Mining
 
 
-Right click and select 'View Image' in order to see an image larger.
+Right click and select ‘View Image’ to see any slider image larger.
 
    <section style="position:relative">
         <div class="blogGlide fullWidth gliderMargin">
