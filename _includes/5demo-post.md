@@ -10,7 +10,7 @@ Topics Include:
 * Clustering
 * Association Rule Mining
 
-**Right click on image and select ‘View Image’ to see any slider image larger.**
+**Right click on any slider image then select ‘View Image’ to see it larger.**
    <section style="position:relative">
         <div class="blogGlide fullWidth gliderMargin">
         <div class="glide__track" data-glide-el="track">
