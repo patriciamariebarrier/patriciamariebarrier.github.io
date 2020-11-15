@@ -3,7 +3,6 @@ These images show some work samples from DSBA 6160: Big Data Design, Storage, an
 While there was no final project for this course, I did have the opportunity to begin looking at a very big MIT medical data set. This was exciting and prompted me to begin some independent learning in cloud computing. With the support of my professor, Dr. Yaorong Ge, I was able to go beyond the scope of the course's requirements, designing an Azure cloud computing system capable of handling the full data set and its queries.
 
 <h3 class="display-3">Right click and select ‘View Image’ to see any slider image larger.</h3>
-
    <section style="position:relative">
       <div class="blogGlide fullWidth gliderMargin">
         <div class="glide__track" data-glide-el="track">
