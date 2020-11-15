@@ -1,16 +1,4 @@
-// Original styles
-.noUi-target,
-.noUi-target * {
-    -webkit-touch-callout: none;
-    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-    -webkit-user-select: none;
-    touch-action: none;
-    user-select: none;
-    box-sizing: border-box;
-}
 
-.noUi-target {
-    position: relative;
     direction: ltr;
 }
 
@@ -49,8 +37,8 @@
   width: 100%;
 }
 .noUi-origin {
-  height: 100%;
-  width: 100%;
+  height: 10%;
+  width: 10%;
 }
 
 html:not([dir="rtl"]) .noUi-horizontal .noUi-origin {
@@ -92,8 +80,8 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-origin {
 }
 
 .noUi-horizontal .noUi-handle {
-    width: 408px;
-    height: 336px;
+    width: 34px;
+    height: 28px;
     left: -17px;
     top: -6px;
 }
@@ -103,8 +91,8 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-origin {
 }
 
 .noUi-vertical .noUi-handle {
-    width: 336px;
-    height: 408px;
+    width: 28px;
+    height: 34px;
     left: -6px;
     top: -17px;
 }
