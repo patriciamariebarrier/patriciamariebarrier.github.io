@@ -7,12 +7,12 @@ An in-depth study of applications of data analytics techniques to discover non-t
 An overview of the business approach to identifying, modeling, retrieving, sharing, and evaluating an enterprise’s data and knowledge assets.  Focuses on the understanding of data and knowledge management, data warehousing, data mining (including rule-based systems, decision trees, neural networks, etc.), and other business intelligence concepts.  Covers the organizational, technological and management perspectives.
 
 
-<h5>DSBA 6100 - Big Data Analytics for Competitive Advantage</h5>
-An introduction to the use of big data as a strategic resource. A focus is placed on integrating the knowledge of analytics tools with an understanding of how companies leverage data analytics to gain strategic advantage. A case approach is used to emphasize hands-on learning and a real-world view of big data analytics.
-
-
 <h5>DSBA 6160 - Big Data Design, Storage, and Provenance</h5>
 The modeling, programming, integration, and provenance of big data.  Focuses on SQL and NoSQL, but may also address other advanced topics. Topics include: (1) modeling/theory: basics of RDBMS and NoSQL, database design; (2) programming: SQL and NoSQL query languages; (3) integration: data warehousing, preprocessing; (4) databases in the Cloud; and (5) provenance: data version control, data lifecycle management.
+
+
+<h5>DSBA 6100 - Big Data Analytics for Competitive Advantage</h5>
+An introduction to the use of big data as a strategic resource. A focus is placed on integrating the knowledge of analytics tools with an understanding of how companies leverage data analytics to gain strategic advantage. A case approach is used to emphasize hands-on learning and a real-world view of big data analytics.
 
 
 <h5>DSBA 5122 - Visual Analytics</h5>
