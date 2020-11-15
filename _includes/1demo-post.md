@@ -1,4 +1,4 @@
-This project is from my first DSBA graduate class (Visual Analytics) at UNCC. I worked with a group of 3. All of us created Tableau graphs. I was key in helping our team narrow down graph choices. I was also responsible for creating the powerpoint and writing our report summary. Team member Kaci Allen was key in creating (and explaining how to us) my favorite visualization (featured above) for this project.
+This project is from my first DSBA graduate class (Visual Analytics) at UNCC. I worked with a group of 3. All of us created Tableau graphs. I was key in helping our team narrow down graph choices in order to build a good storytelling flow. I was also responsible for creating the powerpoint and writing our summary report. Team member Kaci Allen was key in creating (and explaining to us how to create) my favorite visualization (featured above) for this project.
  <section style="position:relative">
             <div class="blogGlide fullWidth">
     <div class="glide__track" data-glide-el="track">
