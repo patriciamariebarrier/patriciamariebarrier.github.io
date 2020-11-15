@@ -43,7 +43,7 @@ Data Exploration and Multiple Linear Regression (MLR) using R:
           <button class="glide__arrow text-default position-static" data-glide-dir=">"><i class="ni ni-bold-right"></i></button>
         </div>
       </div>
-   
+   </section>
    
    Data Warehousing:
    <section style="position:relative">
@@ -65,7 +65,7 @@ Data Exploration and Multiple Linear Regression (MLR) using R:
           <button class="glide__arrow text-default position-static" data-glide-dir=">"><i class="ni ni-bold-right"></i></button>
         </div>
       </div>
-   
+   </section>
    
  ROC Curve Analysis to Evaluate Classification Performance:
    <section style="position:relative">
@@ -100,7 +100,7 @@ Data Exploration and Multiple Linear Regression (MLR) using R:
           <button class="glide__arrow text-default position-static" data-glide-dir=">"><i class="ni ni-bold-right"></i></button>
         </div>
       </div>
-   
+   </section>
    
   Decision Tree and Information Gain:
    <section style="position:relative">
@@ -129,6 +129,7 @@ Data Exploration and Multiple Linear Regression (MLR) using R:
           <button class="glide__arrow text-default position-static" data-glide-dir=">"><i class="ni ni-bold-right"></i></button>
         </div>
       </div>
+   </section>
    
    Clustering:
    <section style="position:relative">
@@ -190,6 +191,7 @@ Data Exploration and Multiple Linear Regression (MLR) using R:
           <button class="glide__arrow text-default position-static" data-glide-dir=">"><i class="ni ni-bold-right"></i></button>
         </div>
       </div>
+   </section>
    
    Association Rule Mining:
    <section style="position:relative">
@@ -215,5 +217,4 @@ Data Exploration and Multiple Linear Regression (MLR) using R:
           <button class="glide__arrow text-default position-static" data-glide-dir=">"><i class="ni ni-bold-right"></i></button>
         </div>
       </div>
-   
    </section>
