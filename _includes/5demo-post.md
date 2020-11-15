@@ -32,7 +32,7 @@ Topics Include:
               <img src="../assets/img/theme/6201assignments2019_Page_05.png">
             </li>
              <li class="glide__slide">
-                <a id=#"testing">img src="../assets/img/theme/6201assignments2019_Page_06.png"></a>
+                <a id=#"testing"><img src="../assets/img/theme/6201assignments2019_Page_06.png"></a>
             </li>
             <li class="glide__slide">
               <img src="../assets/img/theme/6201assignments2019_Page_07.png">
