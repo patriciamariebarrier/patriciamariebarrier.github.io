@@ -10,11 +10,10 @@ Topics Include:
 * Clustering
 * Association Rule Mining
 
+Right click and select 'View Image' in order to see an image larger.
 
    <section style="position:relative">
-   
-Right click and select 'View Image' in order to see an image larger.
-      <div class="blogGlide fullWidth gliderMargin">
+        <div class="blogGlide fullWidth gliderMargin">
         <div class="glide__track" data-glide-el="track">
           <ul class="glide__slides">
             <li class="glide__slide">
