@@ -11,7 +11,7 @@ Topics Include:
 * Association Rule Mining
 
 Data Exploration and Multiple Linear Regression (MLR) using R:
-   <section style="position:relative">
+  
       <div class="blogGlide fullWidth gliderMargin">
         <div class="glide__track" data-glide-el="track">
           <ul class="glide__slides">
@@ -43,10 +43,10 @@ Data Exploration and Multiple Linear Regression (MLR) using R:
           <button class="glide__arrow text-default position-static" data-glide-dir=">"><i class="ni ni-bold-right"></i></button>
         </div>
       </div>
-   </section>
+
    
    Data Warehousing:
-   <section style="position:relative">
+
       <div class="blogGlide fullWidth gliderMargin">
         <div class="glide__track" data-glide-el="track">
           <ul class="glide__slides">
@@ -65,10 +65,10 @@ Data Exploration and Multiple Linear Regression (MLR) using R:
           <button class="glide__arrow text-default position-static" data-glide-dir=">"><i class="ni ni-bold-right"></i></button>
         </div>
       </div>
-   </section>
+
    
  ROC Curve Analysis to Evaluate Classification Performance:
-   <section style="position:relative">
+
       <div class="blogGlide fullWidth gliderMargin">
         <div class="glide__track" data-glide-el="track">
           <ul class="glide__slides">
@@ -100,10 +100,10 @@ Data Exploration and Multiple Linear Regression (MLR) using R:
           <button class="glide__arrow text-default position-static" data-glide-dir=">"><i class="ni ni-bold-right"></i></button>
         </div>
       </div>
-   </section>
+
    
   Decision Tree and Information Gain:
-   <section style="position:relative">
+ 
       <div class="blogGlide fullWidth gliderMargin">
         <div class="glide__track" data-glide-el="track">
           <ul class="glide__slides">
@@ -129,10 +129,10 @@ Data Exploration and Multiple Linear Regression (MLR) using R:
           <button class="glide__arrow text-default position-static" data-glide-dir=">"><i class="ni ni-bold-right"></i></button>
         </div>
       </div>
-   </section>
+
    
    Clustering:
-   <section style="position:relative">
+  
       <div class="blogGlide fullWidth gliderMargin">
         <div class="glide__track" data-glide-el="track">
           <ul class="glide__slides">
@@ -191,10 +191,10 @@ Data Exploration and Multiple Linear Regression (MLR) using R:
           <button class="glide__arrow text-default position-static" data-glide-dir=">"><i class="ni ni-bold-right"></i></button>
         </div>
       </div>
-   </section>
+
    
    Association Rule Mining:
-   <section style="position:relative">
+
       <div class="blogGlide fullWidth gliderMargin">
         <div class="glide__track" data-glide-el="track">
           <ul class="glide__slides">
@@ -217,4 +217,4 @@ Data Exploration and Multiple Linear Regression (MLR) using R:
           <button class="glide__arrow text-default position-static" data-glide-dir=">"><i class="ni ni-bold-right"></i></button>
         </div>
       </div>
-   </section>
+
