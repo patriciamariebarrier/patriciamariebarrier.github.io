@@ -7,3 +7,4 @@ author: Marie
 ---
 
 {% include 5demo-post.md %}
+{% include 7demo-post.md %}
