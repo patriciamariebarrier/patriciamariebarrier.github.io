@@ -43,7 +43,7 @@ menu_settings:
       - title: My Portfolio
         url: /blog-list-example
         icon: ni-books text-primary
-      - title: CurrVitae
+      - title: Resume and CurrVitae
         url: /blog-CV
         icon: ni-align-center text-success
       #- title: Wide Grid Example
