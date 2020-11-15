@@ -197,9 +197,6 @@ Data Exploration and Multiple Linear Regression (MLR) using R:
         <div class="glide__track" data-glide-el="track">
           <ul class="glide__slides">
             <li class="glide__slide">
-              <img src="../assets/img/theme/6201assignments2019_Page_44.png">
-            </li>
-            <li class="glide__slide">
               <img src="../assets/img/theme/6201assignments2019_Page_45.png">
             </li>
             <li class="glide__slide">
@@ -207,6 +204,9 @@ Data Exploration and Multiple Linear Regression (MLR) using R:
             </li>
             <li class="glide__slide">
               <img src="../assets/img/theme/6201assignments2019_Page_47.png">
+            </li>
+            <li class="glide__slide">
+              <img src="../assets/img/theme/6201assignments2019_Page_48.png">
             </li>
                    </ul>
         </div>
