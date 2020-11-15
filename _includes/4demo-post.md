@@ -31,5 +31,15 @@ While PowerBI is usable, I prefer Tableau.
           <button class="glide__arrow text-default position-static" data-glide-dir="<"><i class="ni ni-bold-left"></i></button>
           <button class="glide__arrow text-default position-static" data-glide-dir=">"><i class="ni ni-bold-right"></i></button>
         </div>
-      </div>
+               </div>
+   
+   
+                 <img src="../assets/img/theme/Slide1.PNG">
+              <img src="../assets/img/theme/Slide2.PNG">
+              <img src="../assets/img/theme/Slide3.PNG">
+              <img src="../assets/img/theme/Slide4.PNG">
+              <img src="../assets/img/theme/Slide5.PNG">
+              <img src="../assets/img/theme/Slide6.PNG">
+              <img src="../assets/img/theme/Slide7.PNG">
+           
     </section>
