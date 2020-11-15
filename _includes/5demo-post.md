@@ -1,5 +1,6 @@
-Here is a sample of my work from assignments in DSBA 6201, Business Intelligence and Analytics, at UNCC.
-Most assignments were required to be completed by-hand initially (for conceptual understanding) then solved using R coding.
+Here is a sample of some work from DSBA 6201, Business Intelligence and Analytics, at UNCC.
+Most assignments were required to be completed by-hand initially (for conceptual understanding) then solved using R coding. 
+(Right click and select 'view full image' in order to see an image larger.)
 
 Topics Include:
 
