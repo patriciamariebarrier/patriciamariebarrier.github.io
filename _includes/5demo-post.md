@@ -13,7 +13,7 @@ Topics Include:
 
    <section style="position:relative">
    
-Right click and select 'view full image' in order to see an image larger.
+Right click and select 'View Image' in order to see an image larger.
       <div class="blogGlide fullWidth gliderMargin">
         <div class="glide__track" data-glide-el="track">
           <ul class="glide__slides">
