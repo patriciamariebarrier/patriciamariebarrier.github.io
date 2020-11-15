@@ -9,7 +9,7 @@ Topics Include:
 * Decision Trees
 * Clustering
 * Association Rule Mining
-
+   <section style="position:relative">
 Data Exploration and Multiple Linear Regression (MLR) using R:
   
       <div class="blogGlide fullWidth gliderMargin">
@@ -217,4 +217,4 @@ Data Exploration and Multiple Linear Regression (MLR) using R:
           <button class="glide__arrow text-default position-static" data-glide-dir=">"><i class="ni ni-bold-right"></i></button>
         </div>
       </div>
-
+</section>
