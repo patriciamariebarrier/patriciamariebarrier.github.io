@@ -10,7 +10,7 @@ Topics Include:
 * Clustering
 * Association Rule Mining
 
-Data Exploration and Multiple Linear Regression (MLR) using R:
+<h3 class="display-3">Data Exploration and Multiple Linear Regression (MLR) using R:</h3>
 
    <section style="position:relative">
       <div class="blogGlide fullWidth gliderMargin">
