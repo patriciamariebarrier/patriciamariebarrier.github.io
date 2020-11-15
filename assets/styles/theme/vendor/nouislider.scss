@@ -48,66 +48,7 @@
   height: 100%;
   width: 100%;
 }
-.noUi-origin {
-  height: 10%;
-  width: 10%;
-}
-
-html:not([dir="rtl"]) .noUi-horizontal .noUi-origin {
-    left: auto;
-    right: 0;
-}
-
-.noUi-vertical .noUi-origin {
-    width: 0;
-}
-
-.noUi-horizontal .noUi-origin {
-    height: 0;
-}
-
-.noUi-handle {
-  -webkit-backface-visibility: hidden;
-   backface-visibility: hidden;
-   position: absolute;
-}
-
-.noUi-touch-area {
-  height: 100%;
-  width: 100%;
-}
-
-.noUi-state-tap .noUi-connect,
-.noUi-state-tap .noUi-origin {
-  -webkit-transition: transform 0.3s;
-   transition: transform 0.3s;
-}
-
-.noUi-state-drag * {
-    cursor: inherit !important;
-}
-
-.noUi-horizontal {
-    height: $noui-target-thickness;
-}
-
-.noUi-horizontal .noUi-handle {
-    width: 34px;
-    height: 28px;
-    left: -17px;
-    top: -6px;
-}
-
-.noUi-vertical {
-    width: $noui-target-thickness;
-}
-
-.noUi-vertical .noUi-handle {
-    width: 28px;
-    height: 34px;
-    left: -6px;
-    top: -17px;
-}
+991.98
 
 html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
     right: -17px;
