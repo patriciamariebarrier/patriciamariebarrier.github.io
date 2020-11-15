@@ -20,10 +20,7 @@ This project is from my first DSBA graduate class (Visual Analytics) at UNCC. I 
         </li>
            <li class="glide__slide">
             <img src="../assets/img/theme/Final Project Presentation 5122 Ins Comp/Slide6.PNG">
-        </li>
-           <li class="glide__slide">
-            <img src="../assets/img/theme/Final Project Presentation 5122 Ins Comp/Slide7.PNG">
-        </li>
+         </li>
            <li class="glide__slide">
             <img src="../assets/img/theme/Final Project Presentation 5122 Ins Comp/Slide8.PNG">
         </li>
