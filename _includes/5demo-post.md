@@ -11,8 +11,7 @@ Topics Include:
 * Association Rule Mining
 
 
-Right click and select ‘View Image’ to see any slider image larger.
-
+<h3 class="display-3">Right click and select ‘View Image’ to see any slider image larger.</h3>
    <section style="position:relative">
         <div class="blogGlide fullWidth gliderMargin">
         <div class="glide__track" data-glide-el="track">
