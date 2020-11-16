@@ -42,7 +42,7 @@ menu_settings:
       - title: My Portfolio
         url: /blog-list-example
         icon: ni-books text-primary
-      - title: Curriculum Vitae and Resume
+      - title: Curriculum Vitae
         url: /features
         icon: ni-align-center text-success
              #- title: Wide Grid Example
