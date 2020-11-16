@@ -36,8 +36,7 @@ menu_settings:
      #        icon: ni-spaceship text-success    
      #- title: 'Features'
       #url: '/features'     
-    #- title: Pricing
-     # url: /pricing        
+ 
     - title: 'Professional'
       submenu_items:
       - title: My Portfolio
@@ -54,6 +53,8 @@ menu_settings:
         #icon: ni-bullet-list-67 text-default    
     - title: 'About Me'
       url: '/about'
+    - title: Appalachian Faculty Page
+     url: https://mathsci.appstate.edu/people/patricia-marie-barrier
     - title: 'Contact'
       url: '/contact'
 
@@ -69,7 +70,7 @@ social_settings:
   youtube_url: 'https://www.youtube.com/channel/UCAO1mzIs-jnT79_HN_rjOow/'
   linkedin_url: 'https://www.linkedin.com/in/patriciamariebarrier/'
   github_url: 'https://github.com/patriciamariebarrier.github.io/'
-  url: https://mathsci.appstate.edu/people/patricia-marie-barrier
+  -url: https://mathsci.appstate.edu/people/patricia-marie-barrier
 
 authors:
   marie:
