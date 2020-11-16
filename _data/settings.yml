@@ -43,7 +43,7 @@ menu_settings:
         url: /blog-list-example
         icon: ni-books text-primary
       - title: Curriculum Vitae and Resume
-        url: /blog-CV
+        url: /features
         icon: ni-align-center text-success
              #- title: Wide Grid Example
        # url: /blog-grid-example
