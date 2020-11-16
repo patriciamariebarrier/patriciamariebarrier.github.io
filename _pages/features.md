@@ -1,7 +1,5 @@
 ---
-title: Features
-subtitle: Everything you need to show off your product features.
-description: Use the Argon Jekyll theme to build a landing page, blog or complete website.
+title: Curriculum Vitae
 featured_image: /assets/img/sections/unsplashs.jpg
 ---
 
