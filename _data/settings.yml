@@ -45,9 +45,7 @@ menu_settings:
       - title: Curriculum Vitae and Resume
         url: /blog-CV
         icon: ni-align-center text-success
-       - title: Appalachian Faculty Page
-         url: https://mathsci.appstate.edu/people/patricia-marie-barrier
-      #- title: Wide Grid Example
+             #- title: Wide Grid Example
        # url: /blog-grid-example
         #icon: ni-image text-info
       #- title: List Example
