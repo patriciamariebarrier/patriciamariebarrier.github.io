@@ -66,15 +66,15 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
+  youtube_url: 'https://www.youtube.com/channel/UCAO1mzIs-jnT79_HN_rjOow/'
   linkedin_url: 'https://www.linkedin.com/in/patriciamariebarrier/'
-  github_url: 'https://patriciamariebarrier.github.io/'
+  github_url: 'https://github.com/patriciamariebarrier.github.io/'
+  url: https://mathsci.appstate.edu/people/patricia-marie-barrier
 
 authors:
   marie:
     name: Marie
-    picture: /assets/img/faces/team-1.jpg
-
-advanced_settings:
+   
   analytics_code: 
   header_js: 
   footer_js: 
