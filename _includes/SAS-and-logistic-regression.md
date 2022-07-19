@@ -1,15 +1,10 @@
-This project is from my DSBA 6100 graduate class (Big Data Analytics for Competative Advantage) at UNCC. I worked with a group of 5. This project was very heavy in data preparation. 
-We used primarily SAS for data cleaning and pre-processing, working with large files that were formated very differently from each other. We were able to merge these files into something more useful by creating new summary variables for transactional files. We also created new binary variables for logistic regression. 
-We used Tableau for our data visualizations.
+Worked with a group of 5, using primarily SAS for data cleaning, transformation, and pre-processing of transactional files.  We leveraged recoding binary variables for successful logistic regression, and followed this with use of Tableau for impactful data visualizations.
 
 **Right click on any sliding image below then select ‘View Image’ to see it larger.**
 <section style="position:relative">
             <div class="blogGlide fullWidth">
     <div class="glide__track" data-glide-el="track">
         <ul class="glide__slides">
-        <li class="glide__slide">
-            <img src="../assets/img/theme/Final Project Workers Comp Presentation/Slide1.PNG">
-        </li>
         <li class="glide__slide">
             <img src="../assets/img/theme/Final Project Workers Comp Presentation/Slide2.PNG">
         </li>
@@ -55,10 +50,7 @@ We used Tableau for our data visualizations.
          <li class="glide__slide">
             <img src="../assets/img/theme/Final Project Workers Comp Presentation/Slide17.PNG">
         </li>
-         <li class="glide__slide">
-            <img src="../assets/img/theme/Final Project Workers Comp Presentation/Slide18.PNG">
-        </li>
-        
+             
         </ul>
     </div>
     <div class="glide__arrows d-flex justify-content-center mt-2" data-glide-el="controls">
