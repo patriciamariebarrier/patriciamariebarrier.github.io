@@ -1,5 +1,5 @@
-<h5>Graduate Certificate in Data Science and Business Analytics completed 2021.
-Below are course descriptions for courses I have earned graduate credit for at UNCC (University of North Carolinga at Charlotte).</h5>
+<h5>Graduate Certificate in Data Science and Business Analytics completed 2021. 
+Below are course descriptions for courses I have earned graduate credit for during my studies at the University of North Carolinga at Charlotte.</h5>
 <h5>DSBA 6211 - Advanced Business Analytics</h5>
 An in-depth study of applications of data analytics techniques to discover non-trivial relationships that are understandable, useful, and actionable to decision makers.  A case approach is used to emphasize hands-on learning and real-world deployment of business analytics.
 <b>Grade Earned: B</b>
@@ -21,6 +21,7 @@ An introduction to the use of big data as a strategic resource. A focus is place
 
 
 <h5>DSBA	6010	GR	Special Topics in DSBA: From Data to Decisions: Informed Leadership</h5>
+Applied studies around best practices for data-driven decision making and strategies for working in a culture of data informed leadership.
 <b>Grade Earned: A</b>
 
 
