@@ -5,4 +5,4 @@ description: DSBA 5122 Data Visualizations
 featured_image: /assets/img/pages/Slide6.PNG
 ---
 
-{% include 4demo-post.md %}
+{% include tableau-powerbi-post.md %}
