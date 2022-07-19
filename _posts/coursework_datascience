@@ -5,4 +5,4 @@ description: Courses Studied in DSBA Masters Program at UNCC
 featured_image: /assets/img/pages/bigdataapplications.jpg
 ---
 
-{% include 6demo-post.md %}
+{% include courses-post.md %}
