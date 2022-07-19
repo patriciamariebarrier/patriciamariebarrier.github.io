@@ -1,13 +1,10 @@
-Worked with group of 3 to create Tableau and PowerBI visualizations leveraging strong storylines for insurance and healthcare data.
+Worked with group of 3 to create Tableau and PowerBI visualizations leveraging strong storylines for comprehensive insurance claims and healthcare data.
 
 **Right click on any sliding image below then select ‘View Image’ to see it larger.**
  <section style="position:relative">
             <div class="blogGlide fullWidth">
     <div class="glide__track" data-glide-el="track">
         <ul class="glide__slides">
-        <li class="glide__slide">
-            <img src="../assets/img/theme/Final Project Presentation 5122 Ins Comp/Slide1.PNG">
-        </li>
         <li class="glide__slide">
             <img src="../assets/img/theme/Final Project Presentation 5122 Ins Comp/Slide2.PNG">
         </li>
