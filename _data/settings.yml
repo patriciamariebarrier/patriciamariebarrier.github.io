@@ -57,7 +57,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Statistician with emerging knowledge in the lastest, best practices of Data Science.
+  footer_tagline: Statistician and Data Scientist
 contact_settings:
   form_action: 'https://formspree.io/f/mjvpoong'
   confirmation_url: '/thanks'
@@ -65,10 +65,8 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  youtube_url: 'https://www.youtube.com/channel/UCAO1mzIs-jnT79_HN_rjOow'
   linkedin_url: 'https://www.linkedin.com/in/patriciamariebarrier/'
-  github_url: 'https://github.com/patriciamariebarrier/patriciamariebarrier.github.io/'
-
+ 
    
   analytics_code: 
   header_js: 
