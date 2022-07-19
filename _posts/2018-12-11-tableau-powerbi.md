@@ -5,4 +5,4 @@ description: DSBA 5122 Visual Analytics
 featured_image: /assets/img/pages/Slide8.PNG
 ---
 
-{% include 1demo-post.md %}
+{% include DSBA5122-post.md %}
