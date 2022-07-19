@@ -1,4 +1,4 @@
-This project is from my first DSBA graduate class, DSBA 5122: Visual Analytics, at UNCC. I worked with a group of 3. All of us created Tableau graphs. I was key in helping our team narrow down graph choices in order to build a good storyline. I was also responsible for creating the powerpoint and writing our summary report. Team member Kaci Allen was key in creating (and explaining to us how to create) my favorite visualization (featured above) for this project.
+Worked with group of 3 to create Tableau and PowerBI visualizations leveraging strong storylines for insurance and healthcare data.
 
 **Right click on any sliding image below then select ‘View Image’ to see it larger.**
  <section style="position:relative">
