@@ -1,7 +1,7 @@
 ---
 title: Tableau
 date: 2018-12-11
-description: DSBA 5122 Visual Analytics
+description: Tableau Visualizations, digging into comprehensive medical claim data 
 featured_image: /assets/img/pages/Slide8.PNG
 ---
 
