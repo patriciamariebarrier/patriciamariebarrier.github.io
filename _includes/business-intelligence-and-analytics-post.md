@@ -1,7 +1,5 @@
 Business Intelligence and Analytics
 
-Topics Include:
-
 * Data Exploration and Multiple Linear Regression (MLR) using R
 * Data Warehouse Design
 * ROC Curve Analysis to Evaluate Classification Performance (includes Confusion Matrix)
