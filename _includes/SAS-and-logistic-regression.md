@@ -57,8 +57,7 @@ Worked with a group of 5, using primarily SAS for data cleaning, transformation,
           <button class="glide__arrow text-default position-static" data-glide-dir="<"><i class="ni ni-bold-left"></i></button>
           <button class="glide__arrow text-default position-static" data-glide-dir=">"><i class="ni ni-bold-right"></i></button>
     </div>
-</div>
-              <img src="../assets/img/theme/Group Project Workers Compensation Data Analysis - Final_Page_01.png">         
+</div>      
               <img src="../assets/img/theme/Group Project Workers Compensation Data Analysis - Final_Page_02.png">
               <img src="../assets/img/theme/Group Project Workers Compensation Data Analysis - Final_Page_03.png">
               <img src="../assets/img/theme/Group Project Workers Compensation Data Analysis - Final_Page_04.png">
