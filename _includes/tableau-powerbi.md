@@ -1,5 +1,4 @@
-This DSBA 5122 (Data Visualization) project had us in a group of 3, practicing ways to create comparable graphs in both PowerBI and Tableau.
-While PowerBI is usable, I prefer Tableau. 
+Comparing visualization capabilities between PowerBI and Tableau.
 
    <section style="position:relative">  
                  <img src="../assets/img/theme/Slide1.PNG">
