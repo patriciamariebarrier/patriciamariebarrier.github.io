@@ -1,0 +1,8 @@
+---
+title: Podio to Atlassian Jira Migration
+date: 2022-03-08 00:00:00
+description: Comparing Tableau and PowerBI visualizations for population demographics
+featured_image: /assets/img/pages/Slide6.PNG
+---
+
+{% include podio-to-atlassian-jira-migration-post.md %}
