@@ -1,4 +1,4 @@
-Worked with group of 3 to create Tableau and PowerBI visualizations leveraging strong storylines for comprehensive insurance claims and healthcare data.
+Current Project, in progress, creating view for leadership using data pulled via MSSQL and views in Tableau.
 
 **Right click on any sliding image below then select ‘View Image’ to see it larger.**
  <section style="position:relative">
