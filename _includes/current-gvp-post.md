@@ -6,26 +6,14 @@ Worked with group of 3 to create Tableau and PowerBI visualizations leveraging s
     <div class="glide__track" data-glide-el="track">
         <ul class="glide__slides">
                    <li class="glide__slide">
-            <img src="../assets/img/theme/Final Project Presentation 5122 Ins Comp/Slide3.PNG">
+            <img src="../assets/img/theme/GVPSlide0.PNG">
         </li>
            <li class="glide__slide">
-            <img src="../assets/img/theme/Final Project Presentation 5122 Ins Comp/Slide4.PNG">
+            <img src="../assets/img/theme/GVPSlide1.PNG">
         </li>
            <li class="glide__slide">
-            <img src="../assets/img/theme/Final Project Presentation 5122 Ins Comp/Slide5.PNG">
-        </li>
-           <li class="glide__slide">
-            <img src="../assets/img/theme/Final Project Presentation 5122 Ins Comp/Slide6.PNG">
+            <img src="../assets/img/theme/GVPSlide2.PNG">
          </li>
-           <li class="glide__slide">
-            <img src="../assets/img/theme/Final Project Presentation 5122 Ins Comp/Slide8.PNG">
-        </li>
-           <li class="glide__slide">
-            <img src="../assets/img/theme/Final Project Presentation 5122 Ins Comp/Slide9.PNG">
-        </li>
-           <li class="glide__slide">
-            <img src="../assets/img/theme/Final Project Presentation 5122 Ins Comp/Slide10.PNG">
-        </li>
         </ul>
     </div>
     <div class="glide__arrows d-flex justify-content-center mt-2" data-glide-el="controls">
