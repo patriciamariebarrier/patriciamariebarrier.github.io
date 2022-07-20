@@ -50,7 +50,9 @@ menu_settings:
         #icon: ni-image text-info
       #- title: List Example
        # url: /blog-list-example
-        #icon: ni-bullet-list-67 text-default    
+        #icon: ni-bullet-list-67 text-default  
+    - social_settings:
+       linkedin_url: 'https://www.linkedin.com/in/patriciamariebarrier/'
     - title: 'About Me'
       url: '/about'
     - title: 'Contact'
@@ -58,16 +60,19 @@ menu_settings:
 
 footer_settings:
   footer_tagline: Statistician and Data Scientist
+  Data Science and Statistics [8 years], Machine Learning [4 years], Python [<1 year], R [5 years], SQL [4 years], JQL [1 year, Jira SME], C++ [2 years]
+  
+- MA Mathematics, Appalachian State University, 2006
+- MS Data Science and Business Analytics, University of North Carolina Charlotte, Pending 2024
+- Graduate Certificate, Data Science and Business Analytics, University of North Carolina Charlotte, 2021
+- BS Mathematics with minor in Computer Science, Appalachian State University, 2004
+
 contact_settings:
   form_action: 'https://formspree.io/f/mjvpoong'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
 
-social_settings:
-  linkedin_url: 'https://www.linkedin.com/in/patriciamariebarrier/'
- 
-   
   analytics_code: 
   header_js: 
   footer_js: 
