@@ -58,7 +58,7 @@ menu_settings:
 
 footer_settings:
   footer_tagline: Statistician and Data Scientist
-  Data Science and Statistics [8 years], Machine Learning [4 years], Python [<1 year], R [5 years], SQL [4 years], JQL [1 year, Jira SME], C++ [2 years]
+  Data Science and Statistics 8 years, Machine Learning 4 years, Python <1 year, R 5 years, SQL 4 years, JQL 1 year, Jira SME, C++ 2 years
 contact_settings:
   form_action: 'https://formspree.io/f/mjvpoong'
   confirmation_url: '/thanks'
