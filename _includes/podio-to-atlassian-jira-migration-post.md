@@ -1,12 +1,12 @@
-Comparing visualization capabilities between PowerBI and Tableau.
+Lead Analyst for conversion from Podio to Atlassian Jira for operational intake and reporting, included reporting
+needs analysis, development of 70+ custom dashboards, 130+ custom JQL filters, and implementation training and support.
+
+Below is a sample of the MyDash Suite I created within Atlassian Jira, replacing legacy Tableau Dashboards.
 
    <section style="position:relative">  
-                 <img src="../assets/img/theme/Slide1.PNG">
-              <img src="../assets/img/theme/Slide2.PNG">
-              <img src="../assets/img/theme/Slide3.PNG">
-              <img src="../assets/img/theme/Slide4.PNG">
-              <img src="../assets/img/theme/Slide5.PNG">
-              <img src="../assets/img/theme/Slide6.PNG">
-              <img src="../assets/img/theme/Slide7.PNG">
-           
+                 <img src="../assets/img/theme/MyDashSlide1.PNG">
+              <img src="../assets/img/theme/MyDashSlide2.PNG">
+              <img src="../assets/img/theme/MyDashSlide3.PNG">
+              <img src="../assets/img/theme/MyDashSlide4.PNG">
+              <img src="../assets/img/theme/MyDashSlide5.PNG">           
     </section>
