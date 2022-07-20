@@ -64,8 +64,8 @@ contact_settings:
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
    
- social_settings:
-       linkedin_url: 'https://www.linkedin.com/in/patriciamariebarrier/'
+ - social_settings:
+   linkedin_url: 'https://www.linkedin.com/in/patriciamariebarrier/'
 
   analytics_code: 
   header_js: 
