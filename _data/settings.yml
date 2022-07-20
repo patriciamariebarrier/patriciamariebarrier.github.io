@@ -57,7 +57,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Statistician with emerging knowledge in the lastest, best practices of Data Science.
+  footer_tagline: Data Scientist and Statistician, leading impactful data-driven decisions.
 contact_settings:
   form_action: 'https://formspree.io/f/mjvpoong'
   confirmation_url: '/thanks'
