@@ -2,7 +2,6 @@
 title: Data Science and Business Analytics Courses
 date: 2018-07-19 
 description: Graduate Courses Specializing in Data Science and Business Analytics
-
 Education
 MA Mathematics, Appalachian State University, 2006
 MS Data Science and Business Analytics, University of North Carolina Charlotte, Pending 2024
