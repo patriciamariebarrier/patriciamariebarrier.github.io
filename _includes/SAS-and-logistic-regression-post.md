@@ -6,12 +6,6 @@ Worked with a group of 5, using primarily SAS for data cleaning, transformation,
     <div class="glide__track" data-glide-el="track">
         <ul class="glide__slides">
         <li class="glide__slide">
-            <img src="../assets/img/theme/Final Project Workers Comp Presentation/Slide2.PNG">
-        </li>
-           <li class="glide__slide">
-            <img src="../assets/img/theme/Final Project Workers Comp Presentation/Slide3.PNG">
-        </li>
-           <li class="glide__slide">
             <img src="../assets/img/theme/Final Project Workers Comp Presentation/Slide4.PNG">
         </li>
            <li class="glide__slide">
@@ -47,10 +41,7 @@ Worked with a group of 5, using primarily SAS for data cleaning, transformation,
          <li class="glide__slide">
             <img src="../assets/img/theme/Final Project Workers Comp Presentation/Slide16.PNG">
         </li>
-         <li class="glide__slide">
-            <img src="../assets/img/theme/Final Project Workers Comp Presentation/Slide17.PNG">
-        </li>
-             
+                  
         </ul>
     </div>
     <div class="glide__arrows d-flex justify-content-center mt-2" data-glide-el="controls">
