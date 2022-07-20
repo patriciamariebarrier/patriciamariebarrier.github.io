@@ -1,5 +1,11 @@
-<h5>Graduate Certificate in Data Science and Business Analytics completed 2021.
-Courses Below:</h5>
+<h5>Education<br>
+MA Mathematics, Appalachian State University, 2006<br>
+MS Data Science and Business Analytics, University of North Carolina Charlotte, Pending 2024<br>
+Graduate Certificate, Data Science and Business Analytics, University of North Carolina Charlotte, 2021<br>
+BS Mathematics with minor in Computer Science, Appalachian State University, 2004<br><br>
+
+
+<h5>Course Descriptions for Graduate Certificate Studies in Data Science and Business Analytics Below:</h5>
 <h5>DSBA 6211 - Advanced Business Analytics</h5>
 An in-depth study of applications of data analytics techniques to discover non-trivial relationships that are understandable, useful, and actionable to decision makers.  A case approach is used to emphasize hands-on learning and real-world deployment of business analytics.
 <b>Grade Earned: B</b>
