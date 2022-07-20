@@ -5,4 +5,4 @@ description: Tableau Visualizations, digging into comprehensive medical claim da
 featured_image: /assets/img/pages/Slide8.PNG
 ---
 
-{% include DSBA5122-post.md %}
+{% include tableau-insurance-medical-claims-post.md %}
