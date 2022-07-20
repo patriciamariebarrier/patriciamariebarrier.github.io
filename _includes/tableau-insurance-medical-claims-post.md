@@ -33,7 +33,7 @@ Worked with group of 3 to create Tableau and PowerBI visualizations leveraging s
           <button class="glide__arrow text-default position-static" data-glide-dir=">"><i class="ni ni-bold-right"></i></button>
     </div>
 </div>
- <img src="../assets/img/theme/Report Final Project5122_Page_01.png">
+ <img src="../assets/img/theme/Report Final Project5122_Page_0101.png">
               <img src="../assets/img/theme/Report Final Project5122_Page_02.png">         
               <img src="../assets/img/theme/Report Final Project5122_Page_03.png">
               <img src="../assets/img/theme/Report Final Project5122_Page_04.png">
